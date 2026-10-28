@@ -1,0 +1,8 @@
+I need to create a program that will help me understand and visualize transformation by othronormal matrices
+
+The program needs to do the following: 
+- accepts a user specified transfrom matrix size. This should be restricted to a power of 2. Ensure that the program checks for this constarint and notifies the user if violated 
+- It should have a verify button that when pressed multiplies the matrix by its transpose and verifies if its an identity matrix and displays its results in a log window 
+- There should be a button that when I specify the row number and I press it, a code generates a graph of that row matrix which is graphic the basis vector of the tranforms 
+- There should be a menu where the user can pick an excel spreadsheet file as the input. There should be also a toggle that allows the user to select a forward or inverse transform. There should be a field where the use can select the column of the spreadsheet to process and another where user can specify the columns of the spreadsheet in which to place the processed results. The spread sheet will have a vector size N in the first row of its first columns of even numbers. rows 1 throguh N of columns 2, 3, 4 are data columns and can hold the componets of a vector to be trasnformed or the result of such a transformation. There should also be a go button which will read the selected spreadsheet, extract the data values from the selcted colums, tranform (or inverse tranform) the values in that column and put the results in the specified colums and  graph the results
+- Add a button and a field where user can pick a columns of the spreadsheet to graph and the graph is generated when the button us pressed. It should also compute the energy of the selected vector 
