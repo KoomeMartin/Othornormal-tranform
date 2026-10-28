@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+part1b_output/
+Lab 1.pdf
