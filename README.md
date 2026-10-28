@@ -2,7 +2,7 @@
 
 A tkinter program for exploring transforms by an orthonormal matrix (the orthonormal DCT-II). It builds the N×N matrix for a power-of-2 size, verifies it, graphs its basis vectors, and applies the forward or inverse transform to columns of an Excel spreadsheet.
 
-Project documents: [Requirements_v1.md](Requirements_v1.md), [Requirements_v2.md](Requirements_v2.md), [Design.md](Design.md), and the draft lab answers in [Part1b_Answers.md](Part1b_Answers.md).
+Project documents: [Requirements_v1.md](Requirements_v1.md), [Requirements_v2.md](Requirements_v2.md), [Design.md](Design.md).
 
 ## Setup
 
